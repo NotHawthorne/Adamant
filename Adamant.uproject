@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004F833-08D8-20BF-A667-7B42229EAE60}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Adamant",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
